@@ -1,0 +1,25 @@
+{
+  "name": "text-coloring",
+  "version": "1.0.0",
+  "description": "creates a colourful consol-log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haretha74/textColoring-NPM.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "colours",
+    "colors"
+  ],
+  "author": "harethaalshikh@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haretha74/textColoring-NPM/issues"
+  },
+  "homepage": "https://github.com/Haretha74/textColoring-NPM#readme"
+}
