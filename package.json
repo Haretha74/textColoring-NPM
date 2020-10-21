@@ -1,5 +1,5 @@
 {
-  "name": "text-coloring",
+  "name": "@haethashaikh/text-coloring",
   "version": "1.0.0",
   "description": "creates a colourful consol-log",
   "main": "index.js",
